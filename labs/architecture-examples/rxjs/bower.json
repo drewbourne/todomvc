@@ -1,0 +1,10 @@
+{
+	"name": "todomvc-rxjs",
+	"version": "0.0.1",
+	"dependencies": {
+		"todomvc-common": "~0.1.4",
+		"underscore": "~1.5.1", 
+		"jquery": "~2.0.3",
+		"rxjs": "~2.1.10"
+	}
+}
